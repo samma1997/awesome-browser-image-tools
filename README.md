@@ -41,6 +41,7 @@ All tools listed here process images client-side using Canvas API, WebAssembly, 
 | [SammaPix Remove BG](https://www.sammapix.com/tools/remove-bg) | AI background removal, runs in browser via ONNX. | [MIT](https://github.com/samma1997/sammapix) |
 | [Remove.bg](https://www.remove.bg/) | Background removal. Server-side, freemium model. | No |
 | [Cleanup.pictures](https://cleanup.pictures/) | Object removal from images. Partially client-side. | No |
+| [TinyTools Remove BG](https://tinytools-smoky.vercel.app/) | AI background removal running locally in browser via ONNX. No upload. Part of TinyTools — free, single-purpose web utilities, no signup. | Yes |
 
 ## Privacy & Metadata
 
