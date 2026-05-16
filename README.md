@@ -1,5 +1,11 @@
 # Awesome Browser-Based Image Tools
 
+---
+
+## 🌐 All-in-One Browser Tool Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools including image background removal, compression, resizing, format conversion (HEIC→JPG, PNG→JPG), GIF maker, plus PDF, video, and developer tools. All client-side — images never leave your browser.
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of image processing tools that run entirely in the browser — no upload to servers, no installation needed.
