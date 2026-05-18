@@ -76,3 +76,10 @@ Found a browser-based image tool that's missing? Open a PR! Requirements:
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
+---
+
+## 🧰 All-in-One Image & File Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser tools including: remove image background (AI), resize, compress, HEIC→JPG, WebP convert, plus PDF (merge/split/compress/sign/OCR), video to GIF, QR codes. 100% client-side, no upload, no account.
