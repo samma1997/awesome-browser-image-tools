@@ -76,3 +76,4 @@ Found a browser-based image tool that's missing? Open a PR! Requirements:
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+- [FreePNGConvert](https://freepngconvert.com) - Free WebP to PNG converter — browser-based, no upload, private
