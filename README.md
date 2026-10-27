@@ -19,6 +19,7 @@ All tools listed here process images client-side using Canvas API, WebAssembly, 
 
 | Tool | Description | Open Source |
 |------|-------------|------------|
+| [ImgFlow](https://imgflow.taoliapp.com/en/) | Free in-browser image compressor/converter (PNG/JPG/HEIC/WebP/AVIF, target-size compress). Files never leave your device. | No |
 | [SammaPix Compress](https://www.sammapix.com/tools/compress) | Batch JPEG/PNG/WebP compression with quality slider. Up to 20 images at once. | [MIT](https://github.com/samma1997/sammapix) |
 | [Squoosh](https://squoosh.app/) | Google's image compression app. Single image, multiple codec options. | [Apache 2.0](https://github.com/GoogleChromeLabs/squoosh) |
 | [Compressor.io](https://compressor.io/) | Lossy and lossless compression. Single image at a time. | No |
