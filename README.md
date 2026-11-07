@@ -32,6 +32,7 @@ All tools listed here process images client-side using Canvas API, WebAssembly, 
 | [SammaPix HEIC](https://www.sammapix.com/tools/heic) | HEIC → JPG/PNG/WebP. iPhone photo conversion. | [MIT](https://github.com/samma1997/sammapix) |
 | [CloudConvert](https://cloudconvert.com/) | 200+ format combinations. Some processing server-side. | No |
 | [Convertio](https://convertio.co/) | Wide format support. Server-side processing. | No |
+| [ASCII Images](https://ascii-images.com/image-to-ascii) | Local image-to-ASCII conversion with TXT/PNG exports; free, no account, Google Analytics present, no offline mode. | Not established |
 
 ## AI-Powered Tools
 
