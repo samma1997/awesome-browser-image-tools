@@ -39,7 +39,7 @@ All tools listed here process images client-side using Canvas API, WebAssembly, 
 |------|----------|------------|
 | [SammaPix AI Rename](https://www.sammapix.com/tools/ai-rename) | AI generates SEO-friendly filenames from image content. | [MIT](https://github.com/samma1997/sammapix) |
 | [SammaPix Remove BG](https://www.sammapix.com/tools/remove-bg) | AI background removal, runs in browser via ONNX. | [MIT](https://github.com/samma1997/sammapix) |
-| [FotoApta](https://fotoapta.com/) | ID/passport photo maker (Brazil 3x4, passport 5x7, US visa 2x2/DS-160, Canada, Schengen): MediaPipe face landmarks + segmentation in the browser, crops to the official spec and replaces the background. No upload. | [Specs + engine: MIT](https://github.com/MMMystery/foto-documento-specs) |
+| [FotoApta document-photo editor](https://fotoapta.com/en/) | Free document-photo cropping, sizing and print sheets using MediaPipe and Canvas locally in the browser; no account or photo upload for this editor. The separate AI portrait service uses external processing and is not covered by this entry. | [Engine: MIT; spec data: CC BY 4.0](https://github.com/MMMystery/foto-documento-specs) |
 | [Remove.bg](https://www.remove.bg/) | Background removal. Server-side, freemium model. | No |
 | [Cleanup.pictures](https://cleanup.pictures/) | Object removal from images. Partially client-side. | No |
 
