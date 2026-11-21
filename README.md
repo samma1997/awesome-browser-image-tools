@@ -33,6 +33,12 @@ All tools listed here process images client-side using Canvas API, WebAssembly, 
 | [CloudConvert](https://cloudconvert.com/) | 200+ format combinations. Some processing server-side. | No |
 | [Convertio](https://convertio.co/) | Wide format support. Server-side processing. | No |
 
+## Image Editing
+
+| Tool | Description | Open Source |
+|------|-------------|------------|
+| [PixelArtHive](https://pixelarthive.com/) | Convert images to pixel art and resize pixel graphics locally in the browser. | No public source |
+
 ## AI-Powered Tools
 
 | Tool | Function | Open Source |
