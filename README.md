@@ -33,6 +33,12 @@ All tools listed here process images client-side using Canvas API, WebAssembly, 
 | [CloudConvert](https://cloudconvert.com/) | 200+ format combinations. Some processing server-side. | No |
 | [Convertio](https://convertio.co/) | Wide format support. Server-side processing. | No |
 
+## Image Editing
+
+| Tool | Function | Open Source |
+|------|----------|------------|
+| [HandyVale](https://handyvale.com/) | Flip images horizontally or vertically in the browser; also includes crop, rotate, batch and format tools. | No |
+
 ## AI-Powered Tools
 
 | Tool | Function | Open Source |
